@@ -1,0 +1,6 @@
+com\example\Spring\RestController\controller\CompteController.class
+com\example\Spring\RestController\entities\TypeCompte.class
+com\example\Spring\RestController\repositories\CompteRepository.class
+com\example\Spring\RestController\MsBanqueApplication.class
+com\example\Spring\RestController\entities\Compte.class
+com\example\Spring\RestController\Application.class
